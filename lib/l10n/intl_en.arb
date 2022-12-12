@@ -1,0 +1,12 @@
+{
+    "title": "AVALIABLE PLACES",
+    "fullCapacity": "Full Capacity",
+    "allowedEntry": "Allowed Entry",
+    "noEntry" : " No Entry",
+    "place": "place",
+    "places": "places",
+    "into": "Into",
+    "out": "Out",
+    "capacity": "Capacity",
+    "occupants": "Occupants"    
+}

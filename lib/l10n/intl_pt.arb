@@ -1,0 +1,13 @@
+{
+    "title": "VAGAS DISPONÍVEIS",
+    "fullCapacity": "Lotado",
+    "allowedEntry": "Entrada Permitida",
+    "noEntry" : "Entrada Proibida",
+    "place": "vaga",
+    "places": "vagas",
+    "into": "Entrou",
+    "out": "Saiu",
+    "capacity": "Lotação",
+    "occupants": "Ocupantes"
+
+}
