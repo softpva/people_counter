@@ -10,7 +10,7 @@
 >
 > [Based on Daniel Ciolfi's udemy course](https://www.udemy.com/share/101Wim3@bL2WBnXJOyqEFUkkRTTFBdyhqzpZ32Q6N7CTpyPFdVlf_9YG0WhJUuuvZelTMLrW/)
 >
-> [![NPM](https://img.shields.io/npm/l/react)](./readme_assets/mit_license.txt) 
+> [![NPM](https://img.shields.io/npm/l/react)](./license) 
 
 # Features
 > - Simple control with two buttons.
@@ -38,8 +38,6 @@
 > ## Finally, reaching the room full capacity:
 > ![Full capacity](readme/images/full_capacity.gif "Finally, reaching the room full capacity")
 >
-
-# Models
 
 # Tecnologies
 > - Dart Language
