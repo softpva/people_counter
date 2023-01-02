@@ -37,7 +37,7 @@
 >
 > ## Finally, reaching the room full capacity:
 > ![Full capacity](readme/images/full_capacity.gif "Finally, reaching the room full capacity")
->
+
 
 # Tecnologies
 > - Dart Language
